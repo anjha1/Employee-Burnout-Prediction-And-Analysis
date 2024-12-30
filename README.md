@@ -4,7 +4,7 @@ This project predicts the **Employee Burnout Rate** based on input features such
 
 ## Live Demo
 
-You can view and interact with the live project [here](https://employee-burnout-prediction-and-analysis.onrender.com/predict).
+You can view and interact with the live project [here](https://employee-burnout-prediction-and-analysis.onrender.com/).
 
 ---
 
