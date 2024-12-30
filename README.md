@@ -74,5 +74,5 @@ Employee burnout is a critical issue in workplaces, leading to decreased product
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/employee-burnout-prediction.git
+   git clone https://github.com/anjha1/Employee-Burnout-Prediction-And-Analysis.git
    cd employee-burnout-prediction
